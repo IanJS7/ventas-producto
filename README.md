@@ -1,4 +1,4 @@
-# ventas-producto
+# Prototipo Ventas - Version Feature Rama Individual
 
 Primera entidad del prototipo de ventas: `Producto`. El proyecto se compila para **Java 11** y sus pruebas usan JUnit 5.
 
