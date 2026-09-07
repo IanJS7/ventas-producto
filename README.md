@@ -1,4 +1,6 @@
-# Prototipo Ventas - Version Feature Rama Individual
+# Prototipo Ventas - Sistema de Gestión de Ventas v1.0
+
+>>>>>>> main
 
 Primera entidad del prototipo de ventas: `Producto`. El proyecto se compila para **Java 11** y sus pruebas usan JUnit 5.
 
